@@ -9,3 +9,6 @@ In this notebook I will:
 step_sizes = [0.01, 0.1, 0.5, 1.0, '1/N(A)']
 
  ![steps](/Images/step.png)
+
+# Randomization effect on rewards
+ ![epsilon](/Images/rewards.png)
